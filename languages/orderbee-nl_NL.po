@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: OrderBee\n"
+"POT-Creation-Date: 2020-08-30 20:37+0000\n"
+"PO-Revision-Date: 2020-08-30 20:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Nederlands\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: orderbee.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Language: nl_NL\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.3; wp-5.5"
+
+#: orderbee.php:230
+msgid ""
+"Warning! OrderBee-plugin is not up to date! Please update to stay connected."
+msgstr ""
+"Opgelet! De OrderBee-plugin is niet up to date! Gelieve deze te updaten om "
+"verbonden te blijven."
+
+#: orderbee.php:230
+msgid "UPDATE NOW"
+msgstr "NU UPDATEN"
+
+#: common/admin-bar.php:6
+msgid "Synched!"
+msgstr "Gesynchroniseerd!"
+
+#: common/admin-bar.php:8
+msgid "Sync in progress!"
+msgstr "Synch bezig!"
+
+#. Name of the plugin
+#. Author of the plugin
+#: common/admin-bar.php:15
+msgid "OrderBee"
+msgstr "OrderBee"
+
+#: common/admin-bar.php:22
+msgid "Go to OrderBee panel"
+msgstr "Ga naar OrderBee paneel"
+
+#: common/admin-bar.php:33 admin/class-orderbee-admin.php:69
+#: admin/class-orderbee-admin.php:70 admin/partials/orderbee-settings.php:17
+msgid "Settings"
+msgstr "Instellingen"
+
+#: common/admin-bar.php:41
+msgid "Changelog"
+msgstr "Logboek"
+
+#: common/admin-bar.php:49 admin/class-orderbee-admin.php:64
+#: admin/class-orderbee-admin.php:64
+#: admin/partials/orderbee-pickuplocator.php:17
+msgid "Pickup Locator"
+msgstr "Pickup Locator"
+
+#: admin/class-orderbee-admin.php:63
+#: admin/partials/orderbee-product-changlog.php:22
+msgid "Change Log"
+msgstr "Logboek"
+
+#: includes/class-orderbee-product-list.php:10
+#: includes/class-orderbee-product-csv.php:10
+#: includes/class-orderbee-product-update.php:10
+msgid "Products are not available."
+msgstr "Producten niet beschikbaar."
+
+#: includes/class-orderbee-product-list.php:16
+#: includes/class-orderbee-settings.php:35
+#: includes/class-orderbee-product-csv.php:16
+#: includes/class-orderbee-product-update.php:16
+msgid "WooCommerce not found!"
+msgstr "WooCommerce niet gevonden."
+
+#: includes/class-orderbee-settings.php:9
+#: includes/class-orderbee-settings.php:140
+msgid "API credentials are missing."
+msgstr "API gegevens ontbreken."
+
+#: includes/class-orderbee-settings.php:191
+#: includes/class-orderbee-settings.php:199
+msgid "API Access point not accessible."
+msgstr "API Access point niet bereikbaar."
+
+#: includes/class-orderbee-settings.php:196
+msgid "The username you've entered is unknown, please try again."
+msgstr "De gebruikersnaam die u invulde is onbekend, probeer opnieuw aub."
+
+#: includes/class-orderbee-settings.php:197
+msgid "You've entered a wrong password, please try again."
+msgstr "Het wachtwoord dat u invoerde is incorrect, probeer opnieuw aub."
+
+#: includes/class-orderbee-settings.php:198
+msgid "Not all credentials are given, please try again."
+msgstr "Niet alle gegeven zijn ingevuld, probeer opnieuw aub."
+
+#: includes/class-orderbee-settings.php:200
+msgid "Data not found."
+msgstr "Geen data gevonden."
+
+#: admin/partials/orderbee-product-changlog.php:30
+msgid "Refresh Data"
+msgstr "Vernieuw data"
+
+#: admin/partials/orderbee-product-changlog.php:38
+msgid "This pushjobs will be tried again in the next 5 minutes."
+msgstr ""
+"Deze pushjobs zullen in de volgende 5 minuten opnieuw worden geprobeerd."
+
+#: admin/partials/orderbee-product-changlog.php:128
+msgid "No outstanding pushjobs, we're done."
+msgstr "Geen openstaande pushjobs, we zijn klaar."
+
+#: admin/partials/orderbee-product-changlog.php:229
+#: admin/partials/orderbee-pickuplocator.php:31
+msgid ""
+"You need to connect with OrderBee on the setup page first, to see this page."
+msgstr ""
+"Je dient eerst met OrderBee te verbinden bij \"Instellingen\", om deze "
+"pagina te zien."
+
+#: admin/partials/orderbee-pickuplocator.php:23
+msgid "Make pickup points available at checkout"
+msgstr "Maak het kiezen voor pickup locaties mogelijk in de checkout."
+
+#: admin/partials/orderbee-pickuplocator.php:29
+msgid "This function is only for beta-testers"
+msgstr "Deze functie is enkel voor beta-testers."
+
+#: admin/partials/orderbee-settings.php:39
+msgid "You are connected with OrderBee"
+msgstr "Je bent verbonden met OrderBee"
+
+#: admin/partials/orderbee-settings.php:51
+msgid "Disconnect"
+msgstr "Verbinding verbreken"
+
+#: admin/partials/orderbee-settings.php:67
+msgid "Please use your OrderBee credentials"
+msgstr "Gelieve uw OrderBee logingegevens te gebruiken"
+
+#: admin/partials/orderbee-settings.php:81
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: admin/partials/orderbee-settings.php:99
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: admin/partials/orderbee-settings.php:119
+msgid "Connect"
+msgstr "Verbinden"
+
+#. Description of the plugin
+msgid ""
+"This plugin makes a fast and safe connection between your Woocommerce and "
+"OrderBee."
+msgstr ""
+"Deze plugin maakt een snelle en veilige verbinding tussen uw WooCommerce "
+"shop en OrderBee."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.orderbee.be"
+msgstr "https://www.orderbee.be"
